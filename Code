@@ -48,9 +48,9 @@ LinkedIn: \href{https://www.linkedin.com/in/khushboo-kumari-a957a4160/}{https://
 \sectionsep
 \descript{Simulatala Awasiya vidyalaya}
 \location{Bihar board}
-\location{{\custombold State Rank-1} in class XII}
-\location{Score: 86.2\%}\\
-\location{{\custombold State Rank-5} in class X}
+\location{{\custombold {State Rank-1}} in class XII}
+\location{Score: 86.2\%}
+\location{{\custombold {State Rank-5}} in class X}
 \location{Score: 96.4\%}
 
 \section{COURSEWORK}
@@ -77,7 +77,7 @@ LinkedIn: \href{https://www.linkedin.com/in/khushboo-kumari-a957a4160/}{https://
 \location{Frameworks:}
 \textbullet{} TensorFlow
 \textbullet{} Keras \textbullet{} Autocad \textbullet{} git\\
-\textbullet{} Microsoft SQL server management
+\textbullet{} Microsoft SQL server management \\
 \textbullet{} Jupyter Notebooks \\
 
 
@@ -89,7 +89,7 @@ LinkedIn: \href{https://www.linkedin.com/in/khushboo-kumari-a957a4160/}{https://
 \textbullet{} \href{https://www.coursera.org/account/accomplishments/verify/HZJJ29ZQ4J2K}{Sequential Model}
 
 \section{Responsibilities}
-Machine Learning Mentor, ACM-W\\
+{\custombold {Machine Learning Mentor, ACM-W}}\\
 \textbullet{} Conducted session on Machine Learning and Mentorship program for freshers.
 \textbullet{}Helped the new members of ACM-W by guiding them in machine learning and competitive programming
 \end{minipage} 
@@ -125,24 +125,27 @@ Developed the web application of this tool in PHP to help ISR employees extracti
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
-\runsubsection{Detecting Malicious Edge devices in Fog Computing Network}
+\runsubsection{Detecting Malicious devices in Fog Network}
 \location {Guide: Dr. Shashank Gupta}\\
-\textbullet{}Detecting Malicious devices using Intrusion detection System, and storing log files in Virtual Honeypot Device.
+\textbullet{}Detecting Malicious devices using Intrusion detection System, and storing log files in Virtual Honeypot Device. \\
+\sectionsep \\
 
-\sectionsep
+\runsubsection{Face Recognition Using Deep Learning}\\
+\textbullet{}Used a deep CNN model to extract a multidimensional embedding and used them for the face recognition task \\
+\textbullet{}Used Dlib library to detect faces from a live video camera. \\
+\sectionsep \\
+
+\runsubsection{Semantic segmentation}
+\location{Guide: Dr. Pratik Narang}
+\textbullet{}Developed a U-Net based model for semantic segmentation with IOU of 0.8756\\
+\textbullet{}Although the model has been trained on Ade20K scenery data set, it can be used in autonomous driving and medical diagnosis with some fine-tuning. \\
+\sectionsep \\
 
 \runsubsection{Recommender System for Movie}
 \location{Guide: Dr. Amit Dua}\\
 \textbullet{}Used Boltzmann machine for recommendation which is unsupervised way of deep learning.
 \sectionsep \\
-\runsubsection{Semantic segmentation}
-\location{Guide: Dr. Pratik Narang}
-\textbullet{}Developed a U-Net based model for semantic segmentation with IOU of 0.8756\\
-\textbullet{}Although the model has been trained on Ade20K scenery data set, it can be used in autonomous driving and medical diagnosis with some fine-tuning.
 \sectionsep
-\runsubsection{Face Recognition Using Deep Learning}\\
-\textbullet{}Used a deep CNN model to extract a multidimensional embedding and used them for the face recognition task \\
-\textbullet{}Used Dlib library to detect faces from a live video camera.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLIC POLICY
@@ -151,12 +154,12 @@ Developed the web application of this tool in PHP to help ISR employees extracti
 \textbullet{}Attended IOT Security Workshop by Cisco \\
 \section{AWARDS AND ACHEIVEMENTS}
 \textbullet{} {\custombold {\href{http://ssp.jst.go.jp/EN/}{Sakura Exchange Program in science '18, Japan}}}-{selected in a group of 116 students from all over India to participate in this program.}  \\
-\textbullet{} {\custombold Microsoft Codess '19 }-Selected by Microsoft in group of 250 girls from all over India for improving technical skills by organizing assignments, webinars and mock interview. \\
+\textbullet{} {\custombold {Microsoft Codess '19}}-Selected by Microsoft in group of 250 girls from all over India for improving technical skills by organizing assignments, webinars and mock interview. \\
 \textbullet{} {\custombold { \href{https://www.bitsaa.org/page/santha-e-iyer-scholarship}{Santha E. Iyer Scholarship}} }-For holding rank-1 among girls of Merit cum Need scholarship. \\
 
 \textbullet{} {\custombold { \href{https://drive.google.com/open?id=13zgQNyOaem1i_dNJjqOsnlCywXeEnEaH}{Raman Award}} } - For securing State Rank-1 in 12th board among about 1.2 million candidates received the Raman Award from IPS Smiriti Trust.  \\
 \textbullet{} {\custombold {
-Excellence Award}} - Bihar School Examination Board | Nov 2015
+Excellence Award}}
 For securing state rank-5 in 10th board received an excellence award from BSEB. 
 
 \end{minipage} 
