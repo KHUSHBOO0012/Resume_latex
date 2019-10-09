@@ -1,0 +1,163 @@
+
+\documentclass[]{deedy-resume-openfont}
+\usepackage{graphicx}
+\begin{document}
+\namesection{}{Khushboo Kumari}{
+\begin{minipage}[t]{0.34\textwidth}
+{
+
+Mail: \href{mailto:k.khusi431@gmail.com}{k.khusi431@gmail.com}\\
+github:\href{https://github.com/KHUSHBOO0012}{github.com/khushboo0012}
+}
+\end{minipage}
+\begin{minipage}[t]{0.27\textwidth}
+DOB: 5-Jan-2000 | Gender: F \\
+Phone: +91 - 9123466599 \\
+ %} 
+\end{minipage}
+\begin{minipage}[t]{0.34\textwidth}
+{
+LinkedIn: \href{https://www.linkedin.com/in/khushboo-kumari-a957a4160/}{https://www.linkedin.com/in/khushboo-kumari-a957a4160/} \\
+}
+\end{minipage}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+%\section{}
+%\includegraphics[width=0.8\textwidth]{khushboo}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education} 
+
+\subsection {\href{http://www.bits-pilani.ac.in/}{BITS - PILANI, Pilani Campus}}
+\descript{B.E. (Hons.) Computer Science}
+\descript{Minor in Data Science}
+\location{2017-2021 | Pilani, India }
+\location{CGPA: 8.37}
+\sectionsep
+\descript{Simulatala Awasiya vidyalaya}
+\location{Bihar board}
+\location{{\custombold State Rank-1} in class XII}
+\location{Score: 86.2\%}\\
+\location{{\custombold State Rank-5} in class X}
+\location{Score: 96.4\%}
+
+\section{COURSEWORK}
+\subsection{UNDERGRADUATE}
+\textbullet{} Discrete Structure in Computer science\\
+\textbullet{} Computer Programming\\
+\textbullet{} Database system and Management\\ 
+\textbullet{}Object Oriented programming with Java\\ 
+\textbullet{} Logic in computer science\\
+\textbullet{} Data Structure and Algorithm\\
+\textbullet{} Linear Algebra\\
+\textbullet{} Probability and statistics\\
+\textbullet{} Foundation of Data science\\
+
+\section{Skills}
+\subsection{Programming}
+\location{Basic learner:}
+\textbullet{} PHP \textbullet{} JavaScript 
+\textbullet{} HTML\\
+\location{Advanced Learner:}
+\textbullet{} C \textbullet{} R \textbullet{} C++  \textbullet{}Java\\
+\textbullet{} Python(Numpy, Matplotlib, Pandas)\\
+
+\location{Frameworks:}
+\textbullet{} TensorFlow
+\textbullet{} Keras \textbullet{} Autocad \textbullet{} git\\
+\textbullet{} Microsoft SQL server management
+\textbullet{} Jupyter Notebooks \\
+
+
+\section{MOOCS}
+\textbullet{} \href{https://drive.google.com/open?id=1_Q2Io8n2EfvvezRuvSteMk06MxwXS3M9}{Machine Learning}\\
+\textbullet{}\href{https://www.coursera.org/account/accomplishments/specialization/86MG5FU3UWU8} {Deep Learning specialisation}\\ \textbullet{}\href{https://www.coursera.org/account/accomplishments/verify/9R5GGWNVL7G5}{Computer Vision}\\
+\textbullet{} \href{https://www.coursera.org/account/accomplishments/specialization/9HDXPZY34CUB}{python for everybody}
+
+\textbullet{} \href{https://www.coursera.org/account/accomplishments/verify/HZJJ29ZQ4J2K}{Sequential Model}
+
+\section{Responsibilities}
+Machine Learning Mentor, ACM-W\\
+\textbullet{} Conducted session on Machine Learning and Mentorship program for freshers.
+\textbullet{}Helped the new members of ACM-W by guiding them in machine learning and competitive programming
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS AND ACHEIVEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{EXPERIENCE}
+
+\runsubsection
+{\href{https://www.iist.ac.in/}{Indian Institute of Space Science and technology, Kerala}}
+\descript{Research Internship | \href{https://github.com/KHUSHBOO0012/Data-Hiding-with-Deep-Network}{code}}
+\location{Dec - Dec 2018 | Guide: Dr. Deepak Mishra}
+\textbullet{} \href{https://drive.google.com/open?id=1wlI4bHvRelhQ18yE8RKv_KiiMXHWF8nE}{Developed an encoder-decoder based deep learning model for image steganography} \\
+\sectionsep
+\runsubsection
+{\href{https://isr.gujarat.gov.in/}{Institute of Seismological Research}}
+\descript{Research Internship|\href{https://github.com/KHUSHBOO0012/Web-Application-of-Data-Requesting-Tool-ISR}{ code}}
+\location{May 2019-July 2019 }
+\textbullet{Developed a data requesting tool to extract data based on time interval and event from extensive data coming at ISR}\\
+\textbullet{
+Developed the web application of this tool in PHP to help ISR employees extracting data based on their query.} 
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Detecting Malicious Edge devices in Fog Computing Network}
+\location {Guide: Dr. Shashank Gupta}\\
+\textbullet{}Detecting Malicious devices using Intrusion detection System, and storing log files in Virtual Honeypot Device.
+
+\sectionsep
+
+\runsubsection{Recommender System for Movie}
+\location{Guide: Dr. Amit Dua}\\
+\textbullet{}Used Boltzmann machine for recommendation which is unsupervised way of deep learning.
+\sectionsep \\
+\runsubsection{Semantic segmentation}
+\location{Guide: Dr. Pratik Narang}
+\textbullet{}Developed a U-Net based model for semantic segmentation with IOU of 0.8756\\
+\textbullet{}Although the model has been trained on Ade20K scenery data set, it can be used in autonomous driving and medical diagnosis with some fine-tuning.
+\sectionsep
+\runsubsection{Face Recognition Using Deep Learning}\\
+\textbullet{}Used a deep CNN model to extract a multidimensional embedding and used them for the face recognition task \\
+\textbullet{}Used Dlib library to detect faces from a live video camera.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PUBLIC POLICY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{WORKSHOP} 
+\textbullet{}Attended IOT Security Workshop by Cisco \\
+\section{AWARDS AND ACHEIVEMENTS}
+\textbullet{} {\custombold {\href{http://ssp.jst.go.jp/EN/}{Sakura Exchange Program in science '18, Japan}}}-{selected in a group of 116 students from all over India to participate in this program.}  \\
+\textbullet{} {\custombold Microsoft Codess '19 }-Selected by Microsoft in group of 250 girls from all over India for improving technical skills by organizing assignments, webinars and mock interview. \\
+\textbullet{} {\custombold { \href{https://www.bitsaa.org/page/santha-e-iyer-scholarship}{Santha E. Iyer Scholarship}} }-For holding rank-1 among girls of Merit cum Need scholarship. \\
+
+\textbullet{} {\custombold { \href{https://drive.google.com/open?id=13zgQNyOaem1i_dNJjqOsnlCywXeEnEaH}{Raman Award}} } - For securing State Rank-1 in 12th board among about 1.2 million candidates received the Raman Award from IPS Smiriti Trust.  \\
+\textbullet{} {\custombold {
+Excellence Award}} - Bihar School Examination Board | Nov 2015
+For securing state rank-5 in 10th board received an excellence award from BSEB. 
+
+\end{minipage} 
+\end{document}
